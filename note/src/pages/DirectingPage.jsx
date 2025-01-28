@@ -13,6 +13,7 @@ const Directing = () => {
     document.body.style.backgroundColor = '#5a649d';
     document.body.style.width = "100%";
   }, []);
+},);
     return (
 <<<<<<< Updated upstream
     <main className="container">
