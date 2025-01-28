@@ -1,7 +1,12 @@
 import React from "react";
+<<<<<<< Updated upstream
 import "./DirectingPage.css"
 import { useEffect } from 'react'
 import './DirectingPage.css';
+=======
+
+
+>>>>>>> Stashed changes
 
 const Directing = () => {
   useEffect(() => {
@@ -9,6 +14,7 @@ const Directing = () => {
     document.body.style.width = "100%";
   }, []);
     return (
+<<<<<<< Updated upstream
     <main className="container">
       <div className="baslik">
       <h1>What We Offer</h1>
@@ -28,4 +34,16 @@ const Directing = () => {
     </main>
   );
 };
+=======
+      <div>
+        <div>
+        <h1>What we offer</h1>
+        </div>
+      </div>
+      
+      
+    );
+  };
+  
+>>>>>>> Stashed changes
   export default Directing;
