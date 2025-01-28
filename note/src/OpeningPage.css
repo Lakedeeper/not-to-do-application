@@ -1,2 +1,12 @@
-/*Opening page css*/
+.yerlestirme{
+padding-top: 200px;
+}
+.logo{
+    padding-top: 50px;
 
+}
+.texts p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
